@@ -1,4 +1,4 @@
-该文件是基于thinkPHP的FullCalendar日历拖动与数据保存插件
+该文件是基于thinkPHP的日历拖动与数据保存插件
 
 RoomtaskController.class.php是控制器
 
